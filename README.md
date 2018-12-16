@@ -1,6 +1,5 @@
 ## Mapping the HK-PH Domestic Worker Industry
-Stanford CS 224W
-Miguel Ayala
+Miguel Ayala - mayala@cs.stanford.edu
 
 ### This Project
 Foreign Domestic Workers make up 5% of Hong Kong's population. Unfortunately, many of these workers are subject to terrible working conditions, emotional or physical abuse and civil disenfranchisement. The third is particularly alarming because the employment agencies that source and place these women are often the cause. 
