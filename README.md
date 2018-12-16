@@ -19,3 +19,10 @@ separate repositories. Scraping was done with BS4 and Selenium. Visualization wa
 ### Project Report
 The full project report is available [here](http://web.stanford.edu/class/cs224w/reports/CS224W-2018-6.pdf)
 
+### Kudos
+Special thanks to Jure Leskovec and the Stanford CS224W Fall
+2018 team for algorithmic help and project guidance.
+Credit should also go to Jaime Deverall, Ted Ford and
+Jonah Bolotin for helping with the collection and management
+of raw data.
+
